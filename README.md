@@ -34,8 +34,9 @@
 To become a Cybersecurity Analyst / SOC Analyst
 and grow into Security Engineering and Cloud Security.
 
----
 ⭐ Learning, building and improving every day.
+
+---
 
 
 
