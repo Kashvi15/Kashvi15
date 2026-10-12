@@ -1,5 +1,42 @@
-# 💫 About Me:
-Motivated and passionate BCA graduate.<br>Strong interest in cyber security and computer systems.<br>Pursuing a Master’s degree in Computer Applications <br>Known for being a quick learner, highly adaptable, with strong analytical and problem-solving skills, and excellent communication and teamwork abilities.
+
+# Hi, I'm Kashvi 👋
+
+🎓 MCA Student | Aspiring Cybersecurity Professional
+
+## 👩‍💻 About Me
+- Currently pursuing my Master of Computer Applications (MCA).
+- Learning cybersecurity, networking and operating systems.
+- Interested in Security Operations Center (SOC) analysis,
+  threat detection and incident response.
+- Working towards building practical cybersecurity projects.
+- Known for being a quick learner, highly adaptable, with strong analytical and problem-solving skills, and excellent
+  communication and teamwork abilities.
+
+## 🛡️ Current Learning Goals
+- Computer Networking and Network Security
+- Linux Fundamentals
+- Python for Cybersecurity
+- Security Logs and Incident Investigation
+- SIEM Tools and Cloud Security
+
+## 🧰 Technologies & Tools
+- Programming: Python (learning)
+- Operating Systems: Windows, Linux (learning)
+- Version Control: Git and GitHub (learning)
+- Security Tools: Wireshark and SIEM tools (to explore)
+
+## 📂 Projects
+- Cybersecurity Fundamentals — Coming soon
+- Python Security Log Analyzer — Coming soon
+- SOC Home Lab — Coming soon
+
+## 🎯 Career Goal
+To become a Cybersecurity Analyst / SOC Analyst
+and grow into Security Engineering and Cloud Security.
+
+---
+⭐ Learning, building and improving every day.
+
 
 
 # 💻 Tech Stack:
